@@ -26,10 +26,4 @@
     <ProjectReference Include="..\OAM-Backend\OAM-Backend.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-    <Folder Include="Mocks\" />
-    <Folder Include="Services\" />
-  </ItemGroup>
-
 </Project>
